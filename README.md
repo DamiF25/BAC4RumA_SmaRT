@@ -1,0 +1,2 @@
+# BAC4RumA_SmaRT
+This work seeks existing evidence on the alternatives to antibiotics in the treatment of mastitis in small ruminants, towards improving milk yield and production and mitigating the risks of antibiotic use. This repository contains all R scripts used for data visualization in the systematic review. This work is an output from "BAC4RumA" project, funded by the International Development Research Centre (IDRC), Canada, and the Global AMR Innovation Fund (GAMRIF), part of the UK Government’s Department of Health and Social Care (DHSC).
