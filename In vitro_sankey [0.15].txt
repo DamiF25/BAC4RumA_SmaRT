@@ -1,0 +1,35 @@
+In vitro [0.15] Phytochemicals
+Phytochemicals [0.15] Broth dilution
+Broth dilution [0.15] Lippia origanoides
+
+In vitro [0.15] Phytochemicals
+Phytochemicals [0.15] Broth dilution
+Broth dilution [0.15] Lippia alba
+
+In vitro [0.15] Phytochemicals
+Phytochemicals [0.15] Broth dilution
+Broth dilution [0.15] Cymbopogon citratus
+
+In vitro [0.15] Phytochemicals
+Phytochemicals [0.15] Broth dilution
+Broth dilution [0.15] Ocimum basilicum
+
+In vitro [0.15] Phytochemicals
+Phytochemicals [0.15] Broth dilution
+Broth dilution [0.15] Calliandra surinamensis pinnulae lectin
+
+In vitro [0.15] Phytochemicals
+Phytochemicals [0.15] Tissue explant culture
+Tissue explant culture [0.15] Sulforaphane
+
+In vitro [0.15] Probiotics
+Probiotics [0.15] Disc diffusion
+Disc diffusion [0.15] Coprophilous fungi
+
+In vitro [0.15] Phytochemicals
+Phytochemicals [0.15] Broth dilution
+Broth dilution [0.15] Hymenaea martiana
+
+In vitro [0.15] Phytochemicals
+Phytochemicals [0.15] DD + BD
+DD + BD [0.15] Caesalpinia sappan L.

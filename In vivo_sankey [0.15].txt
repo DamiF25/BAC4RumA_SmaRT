@@ -1,0 +1,47 @@
+In vivo [0.15] Phytochemicals
+Phytochemicals [0.15] In feed
+In feed [0.15] Macleaya cordata extract
+
+In vivo [0.15] Phytochemicals
+Phytochemicals [0.15] In feed
+In feed [0.15] Multiple plant bioactive components (MPBC)*
+
+In vivo [0.15] Phytochemicals
+Phytochemicals [0.15] Oral administration
+Oral administration [0.15] Ocimum sanctum
+
+In vivo [0.15] Immunostimulants
+Immunostimulants [0.15] Subcutaneous injection
+Subcutaneous injection [0.15] S. aureus immunoreactive proteins
+
+In vivo [0.15] Phytochemicals
+Phytochemicals [0.15] In feed
+In feed [0.15] Nothopanax scutellarium Merr
+
+In vivo [0.15] Phytochemicals
+Phytochemicals [0.15] Intravenous injection
+Intravenous injection [0.15] Ginsenoside Rg1
+
+In vivo [0.15] Phytochemicals
+Phytochemicals [0.15] Intramammary infusion
+Intramammary infusion [0.15] Phyllanthus emblica fruit extract
+
+In vivo [0.15] Phytochemicals
+Phytochemicals [0.15] Intramammary infusion
+Intramammary infusion [0.15] Cocos nucifera oil
+
+In vivo [0.15] Probiotics
+Probiotics [0.15] In feed
+In feed [0.15] Bacillus amyloliquefaciens-9 (GB-9)
+
+In vivo [0.15] Phytochemicals
+Phytochemicals [0.15] In feed
+In feed [0.15] Radix Tetrastigma (RT)
+
+In vivo [0.15] Probiotics
+Probiotics [0.15] Intramammary injection
+Intramammary injection [0.15] Lactococcus lactis
+
+In vivo [0.15] Phytochemicals
+Phytochemicals [0.15] Intramammary infusion
+Intramammary infusion [0.15] Hymenaea martiana
